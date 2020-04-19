@@ -1,4 +1,5 @@
 This project was created by Aveen Pattni to provide a template for express react apps.
+This template is formed with Styled Emotion components using design-units
 
 ## How to run app
 
