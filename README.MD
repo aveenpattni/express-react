@@ -3,7 +3,7 @@ This template is formed with Styled Emotion components using design-units
 
 ## How to run app
 
-Clone to your machine. First build then start the app using the following scripts.
+Clone to your machine. First run `yarn`. Then build with `yarn build`. Then start the app with `yarn start`.
 
 ## Available Scripts
 
